@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Laptop",
+    "nameShop": "laptop",
+    "description": "Powerful, sleek, versatile computing for work and play",
+    "category": "Electronics",
+    "price": 1000,
+    "quantity": 989,
+    "productId": 1
+  },
+  {
+    "name": "Phone",
+    "nameShop": "phone",
+    "description": "Pocket-sized powerhouse, connecting you to the world",
+    "category": "Electronics",
+    "price": 400,
+    "quantity": 995,
+    "productId": 2
+  },
+  {
+    "name": "Candy",
+    "nameShop": "candy",
+    "description": "Sweet indulgence, a burst of flavor in every bite",
+    "category": "Food",
+    "price": 1,
+    "quantity": 831,
+    "productId": 3
+  },
+  {
+    "name": "Book",
+    "nameShop": "book",
+    "description": "Riveting tales await within these printed pages",
+    "category": "Literature",
+    "price": 20,
+    "quantity": 990,
+    "productId": 4
+  },
+  {
+    "name": "Backpack",
+    "nameShop": "backpack",
+    "description": "Durable, spacious, your trusty companion for adventures and commutes",
+    "category": "Clothes",
+    "price": 100,
+    "quantity": 1000,
+    "productId": 5
+  },
+  {
+    "name": "Sunglasses",
+    "nameShop": "sunglasses",
+    "description": "Stylish protection, shielding your eyes with flair",
+    "category": "Clothes",
+    "price": 10,
+    "quantity": 1000,
+    "productId": 6
+  }
+]
